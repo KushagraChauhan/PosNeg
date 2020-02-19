@@ -1,6 +1,6 @@
 # PosNeg
 ### Twitter Sentiment Analysis
-***Under progress***
+**Under progress**
 This project is all about:
 - Collection of Data
 - Text Pre-Processing
